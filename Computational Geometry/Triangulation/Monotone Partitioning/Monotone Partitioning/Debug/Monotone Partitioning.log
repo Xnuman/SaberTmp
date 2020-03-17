@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Monotone Partitioning.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Visual Studio Projects\Saber\Computational Geometry\Math and utility\pseudo_list.hpp(120): warning C4715: 'PseudoList<Point2<int> >::Node::prev': not all control paths return a value
+C:\Visual Studio Projects\Saber\Computational Geometry\Math and utility\pseudo_list.hpp(114): warning C4715: 'PseudoList<Point2<int> >::Node::next': not all control paths return a value
+C:\Visual Studio Projects\Saber\Computational Geometry\Math and utility\pseudo_list.hpp(468): warning C4715: 'PseudoList<Point2<int> >::front': not all control paths return a value
+  Monotone Partitioning.vcxproj -> C:\Visual Studio Projects\Saber\Computational Geometry\Triangulation\Monotone Partitioning\Debug\Monotone Partition.exe
